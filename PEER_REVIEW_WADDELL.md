@@ -16,8 +16,8 @@ Reviewer: Piter Z. Garcia
 - Background is structured (signal characteristics, then deep learning for time-series data, then interpretability).
 
 🟡 **What could improve**
-- Add a 1–2 sentence “scope/roadmap” in **Section 1 (Introduction, p.1)**, right after the last sentence of the intro paragraph (the one ending with “black boxes \[7, 1, 2\]”). Say what “abnormal EEG” means in this survey (seizures/epileptiform events, or broader abnormalities) and what the rest of the survey will cover (models, data, evaluation, interpretability).
-- Add 1 sentence on **evaluation metrics** at the end of **Section 2.2 (Deep Learning for Time-Series Data, p.1)**, right after the final sentence ending with “labeled data \[8, 3, 4\]”. Name common metrics (AUC, sensitivity/recall, specificity) and one line on why they matter clinically (missing an abnormal event is costly).
+- Not critical, but add a 1–2 sentence “scope/roadmap” in **Section 1 (Introduction, p.1)**, right after the last sentence of the intro paragraph (the one ending with “black boxes \[7, 1, 2\]”). Say what “abnormal EEG” means in this survey (seizures/epileptiform events, or broader abnormalities) and what the rest of the survey will cover (models, data, evaluation, interpretability).
+- Not critical, but add 1 sentence on **evaluation metrics** at the end of **Section 2.2 (Deep Learning for Time-Series Data, p.1)**, right after the final sentence ending with “labeled data \[8, 3, 4\]”. Name common metrics (AUC, sensitivity/recall, specificity) and one line on why they matter clinically (missing an abnormal event is costly).
 
 ---
 ## Citations / Formatting
@@ -28,7 +28,7 @@ Reviewer: Piter Z. Garcia
 - Reference list is mostly IEEE-like.
 
 🟡 **What could improve**
-- Reference formatting is inconsistent in the **References list (p.3–4)**:
+- Not critical, but reference formatting is inconsistent in the **References list (p.3–4)**:
   - **\[3\]** includes “vol. Volume 15 - 2021” (duplicate/awkward volume formatting).
   - **\[1\], \[3\], \[4\], \[6\], \[10\]** include “[Online]. Available:” links, while **\[2\], \[5\], \[7\], \[8\], \[9\]** do not. Pick one consistent style and apply it across the list.
   Tightening the reference fields (journal, volume, number, pages, year, doi/url) would clean this up quickly.
@@ -63,7 +63,7 @@ Reviewer: Piter Z. Garcia
 - Clean, professional-looking PDF; sections are clear; no obvious formatting artifacts.
 
 🟡 **What could improve**
-- Minor polish: ensure consistent capitalization (EEG, DL), and consistent spacing around citations.
+- Not critical: minor polish like consistent capitalization (EEG, DL) and consistent spacing around citations.
 
 ---
 ## Readability / Flow
@@ -73,4 +73,8 @@ Reviewer: Piter Z. Garcia
 - Overall structure is clear and easy to skim.
 
 🟡 **What could improve**
-- Add a 1-sentence transition **after Section 2.3** (end of Background) and **right before Section 3** (Related Work), and another 1-sentence transition **after Section 3.4** (end of Related Work) and **right before Section 4** (Conclusion). This will make the flow feel more intentional.
+- Not critical: add a 1-sentence transition **after Section 2.3** (end of Background) and **right before Section 3** (Related Work), and another 1-sentence transition **after Section 3.4** (end of Related Work) and **right before Section 4** (Conclusion). This will make the flow feel more intentional.
+
+---
+
+Overall, I enjoyed reading this and I think you’re on a solid track. I’m looking forward to seeing how your project/pipeline comes together and what results you get.

@@ -72,11 +72,11 @@ Reviewer: Piter Z. Garcia
 - Typos/spacing (places to check in the PDF):
   - **p.4, Section 3.2**: change citation punctuation from “\[7\]..” to “\[7\].”.
   - **p.4, Section 3.2**: change “Newmark” to “Newman” (the surrounding sentences are referring to Newman’s framework/metrics).
-- Style consistency (examples in the PDF):
+- Not critical: style consistency (examples in the PDF):
   - “graph based” / “Graph Based” appears in headings and body (e.g., **p.1 Introduction**, **p.1–2 Section 2.1/3.1 headings**). Keep this wording consistent throughout.
   - “cosponsorship” vs “co-sponsorship” are both used (e.g., **p.1 Introduction** vs later Related Work sections). Pick one spelling and keep it consistent.
   - “U.S.” vs “US” (e.g., **p.1 “U.S. map”** vs **p.5 “US House”**). Standardize one style.
-- Heading capitalization (examples in the PDF):
+- Not critical: heading capitalization (examples in the PDF):
   - **p.2, Section 2.4**: change “Information Retrieval for chatbot system” to Title Case (e.g., “Information Retrieval for Chatbot System”) to match the other headings.
 
 ---
@@ -88,3 +88,7 @@ Reviewer: Piter Z. Garcia
 
 🟡 **What could improve**
 - Break up a few longer paragraphs (especially in **Section 3.1** and **Section 3.2**) into shorter ones where each paragraph does one job: (i) *paper and approach*, (ii) *key finding/result*, (iii) *why it matters for your map/chatbot*.
+
+---
+
+Overall, this was genuinely interesting to read and the project idea comes through clearly. I’m looking forward to seeing the next draft and how the map + chatbot work together once you have results to show.
