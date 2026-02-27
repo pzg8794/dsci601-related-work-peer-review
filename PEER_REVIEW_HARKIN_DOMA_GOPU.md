@@ -9,6 +9,7 @@ Reviewer: Piter Z. Garcia
 
 ---
 ## Background Information
+---
 
 🟢 **What works**
 - Problem and motivation are clear: they explain that Congress.gov/Bioguide contain the needed sponsorship and co-sponsorship data, but that the scale/complexity makes it hard for non-experts to interpret; the proposed map UI plus chatbot is framed as a practical way to turn that data into “askable” questions and interpretable views for the general public.
@@ -19,6 +20,7 @@ Reviewer: Piter Z. Garcia
 
 ---
 ## Citations / Formatting
+---
 
 🟢 **What works**
 - Numeric citation style is used and there is a references section.
@@ -32,6 +34,7 @@ Reviewer: Piter Z. Garcia
 
 ---
 ## Related Work Descriptions
+---
 
 🟢 **What works**
 - The sectioning matches the project components well (network modeling, then analysis, then visualization, then chatbot/GraphRAG).
@@ -51,6 +54,7 @@ Reviewer: Piter Z. Garcia
 
 ---
 ## Conclusion (Novelty vs Prior Work)
+---
 
 🟢 **What works**
 - Conclusion states two clear contributions: accessibility/visualization and grounded conversational querying.
@@ -62,13 +66,12 @@ Reviewer: Piter Z. Garcia
 
 ---
 ## Presentation
+---
 
 🟡 **What could improve**
-- Typos/spacing (examples in the PDF):
-  - **p.2, Section 2.4**: change “webistes” to “websites”.
+- Typos/spacing (places to check in the PDF):
   - **p.4, Section 3.2**: change citation punctuation from “\[7\]..” to “\[7\].”.
   - **p.4, Section 3.2**: change “Newmark” to “Newman” (the surrounding sentences are referring to Newman’s framework/metrics).
-  - **p.5, Section 3.4**: change “Bayesian item-response.The” to “Bayesian item-response. The”.
 - Style consistency (examples in the PDF):
   - “graph based” / “Graph Based” appears in headings and body (e.g., **p.1 Introduction**, **p.1–2 Section 2.1/3.1 headings**). Keep this wording consistent throughout.
   - “cosponsorship” vs “co-sponsorship” are both used (e.g., **p.1 Introduction** vs later Related Work sections). Pick one spelling and keep it consistent.
@@ -78,6 +81,7 @@ Reviewer: Piter Z. Garcia
 
 ---
 ## Readability / Flow
+---
 
 🟢 **What works**
 - Top-level narrative is easy to follow: it starts from the *data source/problem*, moves into *graph construction*, then *network measures/community structure*, then *UI/visual encodings*, and ends with the *chatbot/grounded QA* component.

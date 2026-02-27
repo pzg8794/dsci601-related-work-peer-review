@@ -9,6 +9,7 @@ Reviewer: Piter Z. Garcia
 
 ---
 ## Background Information
+---
 
 🟢 **What works**
 - Intro clearly motivates the problem (clinical workload, access, trust/interpretability).
@@ -20,6 +21,7 @@ Reviewer: Piter Z. Garcia
 
 ---
 ## Citations / Formatting
+---
 
 🟢 **What works**
 - Numeric in-text citations are consistently used.
@@ -35,6 +37,7 @@ Reviewer: Piter Z. Garcia
 
 ---
 ## Related Work Descriptions
+---
 
 🟢 **What works**
 - Organizing related work by model family (traditional ML, then CNN-based approaches, then RNN/LSTM approaches, then emerging approaches) is easy to follow.
@@ -44,6 +47,7 @@ Reviewer: Piter Z. Garcia
 
 ---
 ## Conclusion (Novelty vs Prior Work)
+---
 
 🟢 **What works**
 - Conclusion identifies core gaps (generalization, imbalance, interpretability) and ties back to the motivation.
@@ -53,6 +57,7 @@ Reviewer: Piter Z. Garcia
 
 ---
 ## Presentation
+---
 
 🟢 **What works**
 - Clean, professional-looking PDF; sections are clear; no obvious formatting artifacts.
@@ -62,6 +67,7 @@ Reviewer: Piter Z. Garcia
 
 ---
 ## Readability / Flow
+---
 
 🟢 **What works**
 - Overall structure is clear and easy to skim.
